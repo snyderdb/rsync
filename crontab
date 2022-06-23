@@ -13,4 +13,4 @@ MAILTO=root
 # |  |  |  |  |
 # *  *  *  *  * user-name  command to be executed
 
-  *  *  *  *  * dave  backup.sh
+  *  *  *  *  * dave  backup_v2.sh
